@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartonOrsi
 - 👀 I’m interested in getting my feet into IT and coding
-- 🌱 I’m currently learning CS50, Database + SQL, pythong, fullstack
+- 🌱 I’m currently learning CS50, Database + SQL, python, fullstack
 - 💞️ I’m looking to collaborate on easy coding projects so I can get better
 - 📫 How to reach me mikrokompozit@gmail.com
 - 😄 Pronouns: She/her
